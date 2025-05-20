@@ -1,4 +1,4 @@
-# ECON 725: Computer Programming and Data Management in Economics (Summer 2024)
+# ECON 725: Computer Programming and Data Management in Economics (Summer 2025)
 
 | Instructor | [Marcelo Ortiz-Villavicencio](https://marcelortiz.com/) |
 |--------------|--------------------------------------------------------------|
